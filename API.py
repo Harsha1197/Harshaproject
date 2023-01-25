@@ -13,15 +13,15 @@ data=json.loads((response.text))
 {
   "details":[
       {
-          "name":"Meghana",s
+          "name":"Harsha",s
           "phone":525252
       },
       {
-          "name":"Meghana",s
+          "name":"Harsha",s
           "phone":525252
       },
       {
-          "name":"Meghana",s
+          "name":"Harsha",s
           "phone":525252
       }
   ]
